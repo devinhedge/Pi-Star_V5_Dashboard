@@ -1,4 +1,4 @@
-# Pi-Star Dashboard V4.0
+# Pi-Star Dashboard V5.x
 Pi-Star V4.x.x Revised Dashboard
 
 Copyright (c) 2018, Andy Taylor (MW0MWZ)
