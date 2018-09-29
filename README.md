@@ -1,5 +1,5 @@
 # Pi-Star Dashboard V5.x
-Pi-Star V4.x.x Revised Dashboard
+Pi-Star V5.x.x Revised Dashboard
 
 Copyright (c) 2018, Andy Taylor (MW0MWZ)
 All rights reserved.
